@@ -1,0 +1,4 @@
+audiobook/
+*.wav
+generated_script_debug.txt
+__pycache__/
