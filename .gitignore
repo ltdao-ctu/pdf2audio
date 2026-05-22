@@ -2,3 +2,6 @@ audiobook/
 *.wav
 generated_script_debug.txt
 __pycache__/
+.env
+.venv
+.continue
