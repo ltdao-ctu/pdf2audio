@@ -1,0 +1,11 @@
+AUDIO_PROFILE: A warm, deep, and empathetic Vietnamese male voice, resonant and reflective, suitable for a philosophical and historical narrative.
+DIRECTOR_STYLE: Empathetic
+DIRECTOR_PACE: Natural
+DIRECTOR_ACCENT: Neutral
+TTS_SCENE: A quiet, intimate podcast studio with warm acoustic treatment.
+TTS_CONTEXT: Vietnamese audiobook
+TTS_VOICE: Charon
+
+TTS_TRANSCRIPT:
+
+Chào mừng các bạn đã quay trở lại với podcast Tóm tắt sách. Hôm nay, chúng ta sẽ cùng nhau bước vào một hành trình đầy xúc cảm
