@@ -23,3 +23,7 @@ typing-inspection==0.4.2
 typing_extensions==4.15.0
 urllib3==2.7.0
 websockets==16.0
+dotenv==0.21.0
+python-dotenv==0.21.0
+chromium
+playwright==1.35.0
